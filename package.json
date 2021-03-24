@@ -14,7 +14,7 @@
     "react-dom": "^17.0.1",
     "react-draggable": "^4.4.3",
     "styled-components": "^5.0.0",
-    "three": "^0.124.0",
+    "three": "^0.125.0",
     "typeface-cantarell": "^1.1.13",
     "vanta": "^0.5.21"
   },
